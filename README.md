@@ -17,7 +17,12 @@
 
 ## 📁 Περιεχόμενα
 
-- `WorkConnect_IBR.pdf`: Interim Baseline Report της ομάδας
+- ## 📁 Περιεχόμενα
+
+- [WorkConnect_IBR.pdf](https://github.com/Mantzos-Stefanos/project-management-report/blob/main/WorkConnect_IBR.pdf): Interim Baseline Report της ομάδας
+- `assets/`: Εικόνες (Gantt, BPMN, WBS, RACI) – *προαιρετικά*
+- `docs/`: Παραρτήματα, επιπλέον υλικό – *προαιρετικά*
+
 - `assets/`: Εικόνες (Gantt, BPMN, WBS, RACI) – *προαιρετικά*
 - `docs/`: Παραρτήματα, επιπλέον υλικό – *προαιρετικά*
 
